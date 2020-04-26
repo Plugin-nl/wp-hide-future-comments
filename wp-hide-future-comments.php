@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WP Hide Future Comments
- * Plugin URI:        https://plugin.nl/
+ * Plugin URI:        https://plugin.nl/en/wp-hide-future-comments/
  * Description:       Hide comments with publish dates in the future.
  * Version:           1.0.0
  * Author:            Tim van Iersel, Plugin.nl

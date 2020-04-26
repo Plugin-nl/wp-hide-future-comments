@@ -2,7 +2,7 @@
 Contributors: timvaniersel
 Donate link: https://plugin.nl/
 Tags: comments
-Requires at least: 3.0.1
+Requires at least: 4.4
 Tested up to: 5.4
 Stable tag: trunk
 License: GPLv2 or later
@@ -25,10 +25,6 @@ With this plugin those comments won't be displayed anymore on the front-end.
 = How does it work?  =
 
 There is an extra argument given to only show comments with a date before the current datetime.
-
-== Screenshots ==
-
-1. Admin view
 
 == Changelog ==
 
